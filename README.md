@@ -5,7 +5,7 @@ I'm a digital marketing manager turned full-stack software engineer. I'm passion
 
 - 📫 Email me at: ladannazary@gmail.com
 - 👥 Connect with me on [LinkedIn](https://www.linkedin.com/in/ladan-nazari/)
-- 📒 View my portfolio at https://ladan-hub.github.io/
+- 📒 View my [portfolio](https://ladan-hub.github.io/)
 - 😄 Pronouns: she/her/hers
 
 # ![Ladan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ladan-hub&show_icons=true&theme=transparent)
