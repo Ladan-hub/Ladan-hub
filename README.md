@@ -1,6 +1,6 @@
 ### Hi there, I'm Ladan 👋
 
-I'm a digital marketing manager turned full-stack software engineer. I'm passionate about combining technology and art to create innovative, forward thinking products.
+I'm a full-stack software engineer with a background in digital marketing, passionate about combining technology and art to create dynamic and engaging user experiences.
 
 
 - 📫 Email me at: ladannazary@gmail.com
