@@ -9,7 +9,4 @@ I'm a full-stack software engineer with a background in digital marketing, passi
 - 📫 How to reach me ladannazary@gmail.com
 
 
-# ![Ladan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ladan-hub&show_icons=true&theme=transparent)
-
-
 
