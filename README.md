@@ -5,7 +5,6 @@ I'm a full-stack software engineer with a background in digital marketing, passi
 
 - 🌱 I’m currently learning **AWS** and **MangoDB**
 - 💬 Ask me about **JavaScript, React, Redux, Express, Node.js, Python, PostgreSQL, SQLAlchemy, Flask**
-- 📒 View my [portfolio](https://ladan-hub.github.io/ladannazari/)
 - 📫 How to reach me ladannazary@gmail.com
 
 
